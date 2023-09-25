@@ -42,4 +42,7 @@
 </div>
 
 ###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Raider&repo=auto-trade)](https://github.com/Bad-Raider/auto-trade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Raider&repo=personal-phonebook)](https://github.com/Bad-Raider/personal-phonebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Raider&repo=auto-rent-app)](https://github.com/Bad-Raider/auto-rent-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Raider&repo=images-search)](https://github.com/Bad-Raider/images-search)
