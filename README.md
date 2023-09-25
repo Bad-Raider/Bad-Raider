@@ -42,3 +42,4 @@
 </div>
 
 ###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Raider&repo=personal-phonebook)](https://github.com/Bad-Raider/personal-phonebook)
