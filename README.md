@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bad-Raider/Bad-Raider/output/snake.svg" alt="Snake animation" />
-
-###
