@@ -24,6 +24,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bad-raider/bad-raider/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bad-Raider/Bad-Raider/output/snake.svg" alt="Snake animation" />
 
 ###
